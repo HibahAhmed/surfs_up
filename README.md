@@ -22,4 +22,8 @@ The two tables are displayed below for June and December:
 ![December_temperatures](https://user-images.githubusercontent.com/95547517/155833563-d2c11cad-d5de-487c-930c-6d275853eb0b.png)
 ![June_temperatures](https://user-images.githubusercontent.com/95547517/155833568-a33076a7-1c06-4eed-ae09-5f974151e00e.png)
 
+- The average of the December table and the June is quite close to one another both being in the 70s.
+- The June count is much higher than the December count which could cause inaccuracy in the statistical analysis.
+- There is not a major difference betweem the max between the two months which demonstrates there isn't a drastic change between the two months.
+
 ## Summary
