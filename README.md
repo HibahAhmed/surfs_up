@@ -8,6 +8,8 @@
 - Use statistics to analyze data
 - Design a Flask application using data
 
+The analysis was conducted on the temperature trends before a surf shop was opened. The focus was temperature data for the months of June as well as December in Oahu. This was done to identify if the surf and ice cream ship business will be sustainable all year. 
+
 ## Results
 
 ## Summary
