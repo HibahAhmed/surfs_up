@@ -27,3 +27,4 @@ The two tables are displayed below for June and December:
 - There is not a major difference betweem the max between the two months which demonstrates there isn't a drastic change between the two months.
 
 ## Summary
+Overall, the results demonstate that both months are relatively similar and there is the chance of promising sales in both month with December being slightly colder. To improve the results, there are also other data results that could be used to address the results. 
